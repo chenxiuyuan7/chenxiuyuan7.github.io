@@ -1,4 +1,4 @@
-/**
+/*
  * Refer to hexo-generator-searchdb
  * https://github.com/next-theme/hexo-generator-searchdb/blob/main/dist/search.js
  * Modified by hexo-theme-butterfly
