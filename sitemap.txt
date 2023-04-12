@@ -1,3 +1,12 @@
-http://chenxiuyuan7.github.io/posts/undefined.html
+http://chenxiuyuan7.github.io/categories/index.html
 http://chenxiuyuan7.github.io/music/index.html
+http://chenxiuyuan7.github.io/tags/index.html
+http://chenxiuyuan7.github.io/archives/index.html
+http://chenxiuyuan7.github.io/shuoshuo/index.html
+http://chenxiuyuan7.github.io/photos/index.html
+http://chenxiuyuan7.github.io/movies/index.html
+http://chenxiuyuan7.github.io/comment/index.html
+http://chenxiuyuan7.github.io/links/index.html
+http://chenxiuyuan7.github.io/about/index.html
+http://chenxiuyuan7.github.io/posts/undefined.html
 http://chenxiuyuan7.github.io/
