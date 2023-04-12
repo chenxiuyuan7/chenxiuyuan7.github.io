@@ -1,3 +1,3 @@
-http://example.com/posts/undefined.html
-http://example.com/music/index.html
-http://example.com/
+http://chenxiuyuan7.github.io/posts/undefined.html
+http://chenxiuyuan7.github.io/music/index.html
+http://chenxiuyuan7.github.io/
