@@ -141,6 +141,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/js/anzhiyufunction.js"/>
+      <url>/js/anzhiyufunction.js</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>// 音乐绑定事件function musicBindEvent() {  document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {    anzhiyu.musicTelescopic();  });  document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {    anzhiyu.musicToggle(false);  });}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友链</title>
       <link href="/links/index.html"/>
       <url>/links/index.html</url>
@@ -157,17 +168,6 @@
       <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/anzhiyufunction.js"/>
-      <url>/js/anzhiyufunction.js</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>// 音乐绑定事件function musicBindEvent() {  document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {    anzhiyu.musicTelescopic();  });  document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {    anzhiyu.musicToggle(false);  });}]]></content>
       
     </entry>
     
