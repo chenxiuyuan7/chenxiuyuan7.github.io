@@ -6,7 +6,7 @@
   <link href="http://chenxiuyuan7.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenxiuyuan7.github.io/"/>
-  <updated>2023-04-16T15:06:41.105Z</updated>
+  <updated>2023-04-16T15:55:23.652Z</updated>
   <id>http://chenxiuyuan7.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://chenxiuyuan7.github.io/2023/04/16/srpingboot/"/>
     <id>http://chenxiuyuan7.github.io/2023/04/16/srpingboot/</id>
     <published>2023-04-16T15:05:18.000Z</published>
-    <updated>2023-04-16T15:06:41.105Z</updated>
+    <updated>2023-04-16T15:55:23.652Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1><span id="第一次使用springboot">第一次使用springBoot</span></h1><h2><span id="打开springboot官网"></span></h2><ul><li>输入需要配置的文件名</li><li>在Dependencies中选择添加web</li><li>点击Generate</li></ul><h2><span id="实际开发">实际开发</span></h2><ul><li>idea选择Spring Initializr（Server URL实际走的还是<a href="https://start.spring.io/%E7%BD%91%E5%9D%80">https://start.spring.io/网址</a>)</li></ul><h2><span id="编写colltrolle文件">编写colltrolle文件</span></h2><p><img src="/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8springboot/%E7%BC%96%E5%86%99controlle.png"></p><ul><li>使用@RestController注解指定扫描类</li><li>使用@RequestMapping注解指向路径</li><li>返回一个字符串</li></ul><p>访问 <a href="http://localhost:8080/hello">http://localhost:8080/hello</a><br>显示如下<br><img src="/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8springboot/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BF%E9%97%AE.png"><br>打包项目(idea自带的打包方式)<br><br><br><img src="/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8springboot/%E6%89%93%E5%8C%85jra%E6%96%87%E4%BB%B6.png"><br><br><br>附页<br>由于springboot3.0以后只能使用java17所以需要下载对应的版本<br><img src="/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8springboot/java%E7%89%88%E6%9C%AC.png"><br><br><img src="/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8springboot/spring%E7%89%88%E6%9C%AC.png"><br></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1><span id="第一次使用springboot">第一次使用springBoot</span></h1><h2><span id="打开springboot官网"></span></h2><ul><li>输入需要配置的文件名</li><li>在Dependencies中选择添加web</li><li>点击Generate</li></ul><h2><span id="实际开发">实际开发</span></h2><ul><li>idea选择Spring Initializr（Server URL实际走的还是<a href="https://start.spring.io/%E7%BD%91%E5%9D%80">https://start.spring.io/网址</a>)</li></ul><h2><span id="编写colltrolle文件">编写colltrolle文件</span></h2><p><img src="/springboot/controlle.png"></p><ul><li>使用@RestController注解指定扫描类</li><li>使用@RequestMapping注解指向路径</li><li>返回一个字符串</li></ul><p>访问 <a href="http://localhost:8080/hello">http://localhost:8080/hello</a><br>显示如下<br><img src="/springboot/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BF%E9%97%AE.png"><br>打包项目(idea自带的打包方式)<br><br><br><img src="/springboot/%E6%89%93%E5%8C%85jra%E6%96%87%E4%BB%B6.png"><br><br><br>附页<br>由于springboot3.0以后只能使用java17所以需要下载对应的版本<br><img src="/springboot/java%E7%89%88%E6%9C%AC.png"><br><br><img src="/springboot/spring%E7%89%88%E6%9C%AC.png"><br></p>]]></content>
     
     
       
