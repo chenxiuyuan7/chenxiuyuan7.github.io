@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chenxiuyuan7.github.io/2023/04/23/Tensprflow-day02/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chenxiuyuan7.github.io/2023/04/18/Tensprflow-day01/</loc>
     
     <lastmod>2023-04-18</lastmod>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>http://chenxiuyuan7.github.io/</loc>
-    <lastmod>2023-04-18</lastmod>
+    <lastmod>2023-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
